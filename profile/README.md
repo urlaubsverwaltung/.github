@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://urlaubsverwaltung.cloud">
-    <img src="https://urlaubsverwaltung.cloud/banner-hosted.svg" alt="Try Urlaubsverwaltung hosted on urlaubsverwaltung.cloud" />
+    <img src="https://urlaubsverwaltung.cloud/static/uv-multidevice_sm.png" alt="Try Urlaubsverwaltung hosted on urlaubsverwaltung.cloud" />
   </a>
 </div>
 

@@ -10,8 +10,6 @@
 Welcome to the GitHub home of **Urlaubsverwaltung** — the modern, open-source solution for **vacation management** and **time tracking**.  
 We empower teams to easily manage **leave requests**, **holiday calendars**, and **working hours** — hosted or self-deployed.
 
----
-
 ## 🚀 Try it hosted
 
 Want to skip the setup? **Use Urlaubsverwaltung fully hosted on [urlaubsverwaltung.cloud](https://urlaubsverwaltung.cloud)** — no server maintenance, instant setup, and always up to date.

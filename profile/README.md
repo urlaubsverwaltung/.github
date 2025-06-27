@@ -7,7 +7,7 @@
 </div>
 
 
-Welcome to the GitHub home of **Urlaubsverwaltung** — the modern, open-source solution for **vacation management** and **time tracking**.
+Welcome to the GitHub home of [**urlaubsverwaltung.cloud**](https://urlaubsverwaltung.cloud) — the modern, open-source solution for **vacation management** and **time tracking**.
 We empower teams to easily manage **leave requests**, **holiday calendars**, and **working hours** — hosted or self-deployed.
 
 

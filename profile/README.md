@@ -24,10 +24,10 @@ Want to skip the setup? **Use Urlaubsverwaltung fully hosted on [urlaubsverwaltu
 
 ## Core Projects
 
-We develop our software as separate, focused modules:
+We develop our software as separate applications:
 
-* [**urlaubsverwaltung**](https://github.com/urlaubsverwaltung/urlaubsverwaltung) Our application for leave management — handles users, holidays, roles, and vacation requests.
-* [**zeiterfassung**](https://github.com/urlaubsverwaltung/zeiterfassung)  Our application for tracking working hours and fulfilling legal requirements for time tracking.
+* [**urlaubsverwaltung**](https://github.com/urlaubsverwaltung/urlaubsverwaltung) Our application for leave management — vacation requests, absences, sick notes and optionally overtimes.
+* [**zeiterfassung**](https://github.com/urlaubsverwaltung/zeiterfassung) Our application for tracking working hours and fulfilling legal requirements for time tracking.
 
 
 <div align="center">

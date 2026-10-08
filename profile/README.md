@@ -51,7 +51,7 @@ If you need help running your own installation, we offer [on-premise installatio
 * [Documentation](https://focus-shift.de/hilfe/#dokumentation) and [FAQ](https://focus-shift.de/hilfe/#faq)
 * [Blog](https://focus-shift.de/neuigkeiten/blog/#posts) and [product updates](https://focus-shift.de/neuigkeiten/update/#posts)
 * Feature requests and bug reports: [GitHub Issues](https://github.com/urlaubsverwaltung/urlaubsverwaltung/issues)
-* Email: [support@focus-shift.de](mailto:support@focus-shift.de) · Phone: [+49 721 98614542](tel:+4972198614542)
+* Email: [support@focus-shift.de](mailto:support@focus-shift.de)
 * [LinkedIn](https://www.linkedin.com/company/focus-shift-software)
 
 

@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://focus-shift.de">
-    <img src="focus-shift-hero.jpeg" alt="focus:shift on desktop, laptop, tablet and phone" width="560" />
+    <img src="focus-shift-hero.png" alt="focus:shift leave management and time tracking on desktop and mobile" width="800" />
   </a>
 </div>
 

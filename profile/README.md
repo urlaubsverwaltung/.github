@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://focus-shift.de">
-    <img src="focus-shift-screenshot.jpeg" alt="Urlaubsverwaltung by focus:shift" width="740" />
+    <img src="focus-shift-hero.jpeg" alt="focus:shift on desktop, laptop, tablet and phone" width="560" />
   </a>
 </div>
 
